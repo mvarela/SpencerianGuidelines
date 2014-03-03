@@ -10,9 +10,11 @@ In order to use it you need a working ruby installation, as well as the Prawn ge
 The examples folder contains a few pre-generated sheets, in case you don't have a ruby installation handy.
 
 Call as:
+
     ./spencerian_guidelines {s|c} x_height slant
 
  For example:
+
     ./spencerian_guidelines s 4 52
 
  will produce Spencerian guidelines with a 4mm x-height and 52 degree slant.
